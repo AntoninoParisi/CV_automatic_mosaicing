@@ -1,0 +1,511 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.7.30)  28 APR 2021 09:37
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**relazione.tex
+(./relazione.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06>
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count175
+\Gm@cntv=\count176
+\c@Gm@tempcnt=\count177
+\Gm@bindingoffset=\dimen135
+\Gm@wd@mp=\dimen136
+\Gm@odd@mp=\dimen137
+\Gm@even@mp=\dimen138
+\Gm@layoutwidth=\dimen139
+\Gm@layoutheight=\dimen140
+\Gm@layouthoffset=\dimen141
+\Gm@layoutvoffset=\dimen142
+\Gm@dimlist=\toks16
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen143
+\Gin@req@width=\dimen144
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks17
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count178
+\float@exts=\toks18
+\float@box=\box45
+\@float@everytoks=\toks19
+\@floatcapt=\box46
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2020/03/22 3.42 The Babel package
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2020/03/22 3.42 Babel switching mechanism
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/babel-italian/italian.ldf
+Language: italian 2019/11/16 v.1.4.03 Italian support for the babel system
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2020/03/22 3.42 Babel common definitions
+\babel@savecnt=\count179
+\U@D=\dimen145
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count180
+)
+\it@lettering=\count181
+\it@doublequoteactive=\count182
+\it@ISOcompliance=\count183
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count184
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks20
+\ex@=\dimen146
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen147
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count185
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count186
+\leftroot@=\count187
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count188
+\DOTSCASE@=\count189
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen148
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count190
+\c@MaxMatrixCols=\count191
+\dotsspace@=\muskip16
+\c@parentequation=\count192
+\dspbrk@lvl=\count193
+\tag@help=\toks21
+\row@=\count194
+\column@=\count195
+\maxfields@=\count196
+\andhelp@=\toks22
+\eqnshift@=\dimen149
+\alignsep@=\dimen150
+\tagshift@=\dimen151
+\tagwidth@=\dimen152
+\totwidth@=\dimen153
+\lineht@=\dimen154
+\@envbody=\toks23
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\GPT@outputbox=\box49
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count197
+\lst@gtempboxa=\box50
+\lst@token=\toks25
+\lst@length=\count198
+\lst@currlwidth=\dimen155
+\lst@column=\count199
+\lst@pos=\count266
+\lst@lostspace=\dimen156
+\lst@width=\dimen157
+\lst@newlines=\count267
+\lst@lineno=\count268
+\lst@maxwidth=\dimen158
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count269
+\lst@skipnumbers=\count270
+\lst@framebox=\box51
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count271
+\l__pdf_internal_box=\box52
+)
+(./relazione.aux)
+\openout1 = `relazione.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(89.62709pt, 418.25368pt, 89.6271pt)
+* v-part:(T,H,B)=(101.40665pt, 591.5302pt, 152.11pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=418.25368pt
+* \textheight=591.5302pt
+* \oddsidemargin=17.3571pt
+* \evensidemargin=17.3571pt
+* \topmargin=-7.86334pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=59.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/local/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count272
+\scratchdimen=\dimen159
+\scratchbox=\box53
+\nofMPsegments=\count273
+\nofMParguments=\count274
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count275
+\MPscratchDim=\dimen160
+\MPnumerator=\count276
+\makeMPintoPDFobject=\count277
+\everyMPtoPDFconversion=\toks27
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Info: Redefining \it@ocap on input line 28.
+LaTeX Info: Redefining \it@ccap on input line 28.
+
+
+File italian.ldf warning: 
+italian.ldf    With OT1 encoding guillemets are poorly faked
+italian.ldf    Use T1 encoding
+italian.ldf    or specify a font with command \CaporaliFrom
+italian.ldf    See the documentation concerning the babel-italian typesetting 
+italian.ldf    on input line 28.
+
+\c@lstlisting=\count278
+LaTeX Font Info:    Trying to load font information for U+msa on input line 29.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 29.
+
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./rela
+zione.toc)
+\tf@toc=\write3
+\openout3 = `relazione.toc'.
+
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
+
+ []
+
+<./immagini/rette_epipolari.jpg, id=14, 602.25pt x 406.51875pt>
+File: ./immagini/rette_epipolari.jpg Graphic file (type jpg)
+<use ./immagini/rette_epipolari.jpg>
+Package pdftex.def Info: ./immagini/rette_epipolari.jpg  used on input line 98.
+
+(pdftex.def)             Requested size: 426.81018pt x 170.71188pt.
+
+Overfull \hbox (8.5565pt too wide) in paragraph at lines 98--99
+[][] 
+ []
+
+[3] [4 <./immagini/rette_epipolari.jpg>] [5] [6]
+LaTeX Font Info:    Trying to load font information for OML+cmr on input line 2
+69.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/omlcmr.fd
+File: omlcmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 269.
+
+Overfull \hbox (41.65111pt too wide) in paragraph at lines 270--271
+[][][][][][][][] 
+ []
+
+
+Overfull \hbox (41.65111pt too wide) in paragraph at lines 274--275
+[][][][][][][][][][][][][] 
+ []
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 304--306
+
+ []
+
+[8]
+<./immagini/correct_match_salient_points.jpg, id=43, 2272.49pt x 815.045pt>
+File: ./immagini/correct_match_salient_points.jpg Graphic file (type jpg)
+<use ./immagini/correct_match_salient_points.jpg>
+Package pdftex.def Info: ./immagini/correct_match_salient_points.jpg  used on i
+nput line 328.
+(pdftex.def)             Requested size: 418.25368pt x 150.00989pt.
+<./immagini/wrong_match_salient_points.jpg, id=44, 2272.49pt x 815.045pt>
+File: ./immagini/wrong_match_salient_points.jpg Graphic file (type jpg)
+<use ./immagini/wrong_match_salient_points.jpg>
+Package pdftex.def Info: ./immagini/wrong_match_salient_points.jpg  used on inp
+ut line 334.
+(pdftex.def)             Requested size: 418.25368pt x 150.00989pt.
+ [9 <./immagini/correct_match_salient_points.jpg>]
+<./immagini/RGB_mosaicing.jpg, id=48, 2924.9275pt x 889.3225pt>
+File: ./immagini/RGB_mosaicing.jpg Graphic file (type jpg)
+<use ./immagini/RGB_mosaicing.jpg>
+Package pdftex.def Info: ./immagini/RGB_mosaicing.jpg  used on input line 342.
+(pdftex.def)             Requested size: 418.25368pt x 127.164pt.
+ [10 <./immagini/wrong_match_salient_points.jpg> <./immagini/RGB_mosaicing.jpg>
+]
+<./immagini/warping_schema.jpg, id=52, 720.6925pt x 440.64626pt>
+File: ./immagini/warping_schema.jpg Graphic file (type jpg)
+<use ./immagini/warping_schema.jpg>
+Package pdftex.def Info: ./immagini/warping_schema.jpg  used on input line 356.
+
+(pdftex.def)             Requested size: 418.25368pt x 255.72964pt.
+ [11 <./immagini/warping_schema.jpg>]
+<./immagini/pipeline.png, id=56, 918.43124pt x 140.525pt>
+File: ./immagini/pipeline.png Graphic file (type png)
+<use ./immagini/pipeline.png>
+Package pdftex.def Info: ./immagini/pipeline.png  used on input line 380.
+(pdftex.def)             Requested size: 418.25368pt x 63.9947pt.
+ [12 <./immagini/pipeline.png>]
+<./immagini/montagna_14_foto.jpg, id=62, 2635.8475pt x 1270.7475pt>
+File: ./immagini/montagna_14_foto.jpg Graphic file (type jpg)
+<use ./immagini/montagna_14_foto.jpg>
+Package pdftex.def Info: ./immagini/montagna_14_foto.jpg  used on input line 41
+7.
+(pdftex.def)             Requested size: 418.25368pt x 201.63683pt.
+<./immagini/foto_mosaico_montagna.png, id=63, 5139.2pt x 1371.1225pt>
+File: ./immagini/foto_mosaico_montagna.png Graphic file (type png)
+<use ./immagini/foto_mosaico_montagna.png>
+Package pdftex.def Info: ./immagini/foto_mosaico_montagna.png  used on input li
+ne 418.
+(pdftex.def)             Requested size: 418.25368pt x 111.57498pt.
+ [13]
+<./immagini/montagna_psi_5.jpg, id=68, 2461.195pt x 833.1125pt>
+File: ./immagini/montagna_psi_5.jpg Graphic file (type jpg)
+<use ./immagini/montagna_psi_5.jpg>
+Package pdftex.def Info: ./immagini/montagna_psi_5.jpg  used on input line 441.
+
+(pdftex.def)             Requested size: 418.25368pt x 141.5764pt.
+<./immagini/foto_mosaico_montagna2.png, id=69, 4111.36pt x 685.56125pt>
+File: ./immagini/foto_mosaico_montagna2.png Graphic file (type png)
+<use ./immagini/foto_mosaico_montagna2.png>
+Package pdftex.def Info: ./immagini/foto_mosaico_montagna2.png  used on input l
+ine 442.
+(pdftex.def)             Requested size: 418.25368pt x 69.7422pt.
+ [14 <./immagini/montagna_14_foto.jpg> <./immagini/foto_mosaico_montagna.png>]
+<./immagini/only_sift.jpg, id=73, 1262.7175pt x 1168.365pt>
+File: ./immagini/only_sift.jpg Graphic file (type jpg)
+<use ./immagini/only_sift.jpg>
+Package pdftex.def Info: ./immagini/only_sift.jpg  used on input line 464.
+(pdftex.def)             Requested size: 418.25368pt x 387.00569pt.
+ [15 <./immagini/montagna_psi_5.jpg> <./immagini/foto_mosaico_montagna2.png>] [
+16 <./immagini/only_sift.jpg>]
+<./immagini/montagna_psi_25.jpg, id=80, 2491.3075pt x 877.2775pt>
+File: ./immagini/montagna_psi_25.jpg Graphic file (type jpg)
+<use ./immagini/montagna_psi_25.jpg>
+Package pdftex.def Info: ./immagini/montagna_psi_25.jpg  used on input line 487
+.
+(pdftex.def)             Requested size: 418.25368pt x 147.27452pt.
+File: ./immagini/foto_mosaico_montagna2.png Graphic file (type png)
+<use ./immagini/foto_mosaico_montagna2.png>
+Package pdftex.def Info: ./immagini/foto_mosaico_montagna2.png  used on input l
+ine 488.
+(pdftex.def)             Requested size: 418.25368pt x 69.7422pt.
+<./immagini/rio.jpg, id=81, 2591.6825pt x 652.4375pt>
+File: ./immagini/rio.jpg Graphic file (type jpg)
+<use ./immagini/rio.jpg>
+Package pdftex.def Info: ./immagini/rio.jpg  used on input line 509.
+(pdftex.def)             Requested size: 418.25368pt x 105.28812pt.
+<./immagini/foto_mosaico_rio.png, id=82, 4111.36pt x 1541.76pt>
+File: ./immagini/foto_mosaico_rio.png Graphic file (type png)
+<use ./immagini/foto_mosaico_rio.png>
+Package pdftex.def Info: ./immagini/foto_mosaico_rio.png  used on input line 51
+0.
+(pdftex.def)             Requested size: 418.25368pt x 156.84338pt.
+
+[17 <./immagini/montagna_psi_25.jpg>]
+<./immagini/rio_out_inliers_ultima_iterazione.jpg, id=86, 1124.2pt x 843.15pt>
+File: ./immagini/rio_out_inliers_ultima_iterazione.jpg Graphic file (type jpg)
+<use ./immagini/rio_out_inliers_ultima_iterazione.jpg>
+Package pdftex.def Info: ./immagini/rio_out_inliers_ultima_iterazione.jpg  used
+ on input line 525.
+(pdftex.def)             Requested size: 418.25368pt x 313.68457pt.
+ [18 <./immagini/rio.jpg> <./immagini/foto_mosaico_rio.png>]
+<./immagini/rio_check_ransac_immagine_ultima_iterazione.jpg, id=90, 2686.035pt 
+x 784.9325pt>
+File: ./immagini/rio_check_ransac_immagine_ultima_iterazione.jpg Graphic file (
+type jpg)
+<use ./immagini/rio_check_ransac_immagine_ultima_iterazione.jpg>
+Package pdftex.def Info: ./immagini/rio_check_ransac_immagine_ultima_iterazione
+.jpg  used on input line 534.
+(pdftex.def)             Requested size: 418.25368pt x 122.2262pt.
+ [19 <./immagini/rio_out_inliers_ultima_iterazione.jpg> <./immagini/rio_check_r
+ansac_immagine_ultima_iterazione.jpg>] [20] (./relazione.aux) ) 
+Here is how much of TeX's memory you used:
+ 6103 strings out of 480608
+ 81569 string characters out of 5903630
+ 352542 words of memory out of 5000000
+ 21918 multiletter control sequences out of 15000+600000
+ 540391 words of font info for 54 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 30i,14n,37p,867b,1217s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texl
+ive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texli
+ve/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texliv
+e/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive
+/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/
+2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2
+020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/202
+0/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2020/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2020/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2020/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2020/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2020/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2020/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2020/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2020/texmf-dist/fon
+ts/type1/public/cm-super/sfrm1095.pfb>
+Output written on relazione.pdf (20 pages, 13957508 bytes).
+PDF statistics:
+ 144 PDF objects out of 1000 (max. 8388607)
+ 90 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 81 words of extra memory for PDF output out of 10000 (max. 10000000)
+

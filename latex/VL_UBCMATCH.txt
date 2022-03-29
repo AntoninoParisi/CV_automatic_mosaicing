@@ -1,0 +1,25 @@
+A match from feature d1 in image 1 to feature d2 in image 2 is used only
+if the distance between d1 and d2 is significantly smaller than the distance
+to d1 and any other feature in image 2. The match needs to be significantly
+better than any other potential match. "Significant" is defined by the threshold
+that you pass to the VL_UBCMATCH function.
+
+
+matches = []
+For each descriptor k1 in image 1:
+    closest_match_distance = Infinity
+    second_closest_match_distance = Infinity
+    best_match = None
+    For each descriptor k2 in image 2:
+        distance_squared = d(k1, k2)
+        if (distance_squared < closest_match_distance):
+            second_closest_match_distance = closest_match_distance
+            closest_match_distance = distance_squared
+            best_match = k2
+    If (threshold * closest_match_distance <
+      second_closest_match_distance AND best_match != None):
+        matches.Insert((k1, best_match, closest_match_distance))
+return matches
+
+Source:
+http://stackoverflow.com/questions/13661051/how-does-vl-ubcmatch-work-technically
